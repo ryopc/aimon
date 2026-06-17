@@ -1,0 +1,8 @@
+name = "aimon"
+main = "worker.js"
+compatibility_date = "2026-06-17"
+
+# 📦 KV名前空間の設定
+[[kv_namespaces]]
+binding = "AIMON_STORE"        
+id = "fa5c9323112c409dbec4edb4726a11f4"
